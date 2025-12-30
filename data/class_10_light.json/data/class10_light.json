@@ -1,0 +1,218 @@
+{
+  "class": 10,
+  "subject": "Physics",
+  "chapter": "Light – Reflection and Refraction & The Human Eye and the Colourful World",
+  "board": "JKBOSE",
+
+  "qa": [
+
+    {
+      "keywords": ["light"],
+      "answer": {
+        "definition": "Light is a form of energy which enables us to see objects."
+      }
+    },
+
+    {
+      "keywords": ["reflection"],
+      "answer": {
+        "definition": "Reflection of light is the bouncing back of light rays from a surface.",
+        "laws": "The laws of reflection are: (1) The angle of incidence is equal to the angle of reflection. (2) The incident ray, reflected ray and the normal at the point of incidence lie in the same plane."
+      }
+    },
+
+    {
+      "keywords": ["incident", "ray"],
+      "answer": {
+        "definition": "An incident ray is the ray of light that falls on a reflecting surface."
+      }
+    },
+
+    {
+      "keywords": ["reflected", "ray"],
+      "answer": {
+        "definition": "The ray of light that bounces back from a reflecting surface is called the reflected ray."
+      }
+    },
+
+    {
+      "keywords": ["normal"],
+      "answer": {
+        "definition": "The normal is an imaginary line drawn perpendicular to the reflecting surface at the point of incidence."
+      }
+    },
+
+    {
+      "keywords": ["plane", "mirror"],
+      "answer": {
+        "definition": "A plane mirror is a mirror with a flat reflecting surface.",
+        "image": "The image formed is virtual, erect, same size, laterally inverted and formed at the same distance behind the mirror as the object is in front."
+      }
+    },
+
+    {
+      "keywords": ["spherical", "mirror"],
+      "answer": {
+        "definition": "A spherical mirror is a mirror whose reflecting surface forms a part of a sphere."
+      }
+    },
+
+    {
+      "keywords": ["concave", "mirror"],
+      "answer": {
+        "definition": "A concave mirror is a spherical mirror whose reflecting surface is curved inward.",
+        "uses": "Used in shaving mirrors, headlights of vehicles, dentist mirrors and solar furnaces."
+      }
+    },
+
+    {
+      "keywords": ["convex", "mirror"],
+      "answer": {
+        "definition": "A convex mirror is a spherical mirror whose reflecting surface is curved outward.",
+        "uses": "Used as rear-view mirrors in vehicles due to wide field of view."
+      }
+    },
+
+    {
+      "keywords": ["pole"],
+      "answer": {
+        "definition": "The pole is the centre of the reflecting surface of a spherical mirror."
+      }
+    },
+
+    {
+      "keywords": ["centre", "curvature"],
+      "answer": {
+        "definition": "The centre of curvature is the centre of the sphere of which the mirror is a part."
+      }
+    },
+
+    {
+      "keywords": ["radius", "curvature"],
+      "answer": {
+        "definition": "The radius of curvature is the distance between the pole and the centre of curvature of the mirror."
+      }
+    },
+
+    {
+      "keywords": ["principal", "axis"],
+      "answer": {
+        "definition": "The principal axis is the straight line passing through the pole and the centre of curvature of a spherical mirror."
+      }
+    },
+
+    {
+      "keywords": ["principal", "focus"],
+      "answer": {
+        "definition": "The principal focus is the point on the principal axis where rays parallel to the axis converge or appear to diverge after reflection."
+      }
+    },
+
+    {
+      "keywords": ["focal", "length"],
+      "answer": {
+        "definition": "The focal length is the distance between the pole and the principal focus of a mirror.",
+        "relation": "For spherical mirrors, R = 2f."
+      }
+    },
+
+    {
+      "keywords": ["mirror", "formula"],
+      "answer": {
+        "formula": "1/f = 1/v + 1/u",
+        "note": "This formula is valid for all spherical mirrors using the New Cartesian Sign Convention."
+      }
+    },
+
+    {
+      "keywords": ["magnification"],
+      "answer": {
+        "definition": "Magnification is the ratio of height of image to height of object.",
+        "formula": "m = hi / ho = -v / u",
+        "note": "Negative magnification indicates real image; positive indicates virtual image."
+      }
+    },
+
+    {
+      "keywords": ["refraction"],
+      "answer": {
+        "definition": "Refraction of light is the bending of light when it passes from one medium to another.",
+        "cause": "It occurs due to change in speed of light in different media."
+      }
+    },
+
+    {
+      "keywords": ["laws", "refraction"],
+      "answer": {
+        "laws": "The laws of refraction are: (1) The incident ray, refracted ray and the normal lie in the same plane. (2) The ratio of sine of angle of incidence to sine of angle of refraction is constant (Snell’s law)."
+      }
+    },
+
+    {
+      "keywords": ["refractive", "index"],
+      "answer": {
+        "definition": "Refractive index is the ratio of speed of light in vacuum to speed of light in a medium.",
+        "formula": "n = c / v"
+      }
+    },
+
+    {
+      "keywords": ["human", "eye"],
+      "answer": {
+        "definition": "The human eye is a natural optical instrument which enables us to see objects.",
+        "parts": "Cornea, iris, pupil, eye lens, retina and optic nerve."
+      }
+    },
+
+    {
+      "keywords": ["myopia"],
+      "answer": {
+        "definition": "Myopia is a defect of vision in which distant objects appear blurred.",
+        "cause": "Excessive curvature of eye lens or elongation of eyeball.",
+        "correction": "Corrected using a concave lens."
+      }
+    },
+
+    {
+      "keywords": ["hypermetropia"],
+      "answer": {
+        "definition": "Hypermetropia is a defect of vision in which nearby objects appear blurred.",
+        "cause": "Insufficient curvature of eye lens or shortening of eyeball.",
+        "correction": "Corrected using a convex lens."
+      }
+    },
+
+    {
+      "keywords": ["presbyopia"],
+      "answer": {
+        "definition": "Presbyopia is a defect of vision associated with ageing.",
+        "cause": "Weakening of ciliary muscles and reduced flexibility of eye lens.",
+        "correction": "Corrected using bifocal lenses."
+      }
+    },
+
+    {
+      "keywords": ["dispersion"],
+      "answer": {
+        "definition": "Dispersion of light is the splitting of white light into its constituent colours.",
+        "example": "Rainbow formation."
+      }
+    },
+
+    {
+      "keywords": ["rainbow"],
+      "answer": {
+        "definition": "A rainbow is formed due to dispersion, refraction and total internal reflection of sunlight by water droplets."
+      }
+    },
+
+    {
+      "keywords": ["sign", "convention", "mirror"],
+      "answer": {
+        "definition": "The New Cartesian Sign Convention is used for spherical mirrors.",
+        "rules": "All distances measured from the pole in the direction of incident light are taken as positive. Distances measured opposite to the direction of incident light are taken as negative. Heights measured above the principal axis are positive and below are negative."
+      }
+    }
+  ]
+}
+

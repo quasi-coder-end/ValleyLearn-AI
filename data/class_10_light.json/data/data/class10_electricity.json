@@ -1,0 +1,206 @@
+{
+  "class": 10,
+  "subject": "Physics",
+  "chapter": "Electricity",
+  "board": "JKBOSE",
+
+  "qa": [
+
+    {
+      "keywords": ["electricity"],
+      "answer": {
+        "definition": "Electricity refers to the phenomena associated with the presence and flow of electric charge.",
+        "note": "In conductors, electricity is due to the flow of electrons."
+      }
+    },
+
+    {
+      "keywords": ["electric", "charge"],
+      "answer": {
+        "definition": "Electric charge is a fundamental property of matter that causes electrical effects.",
+        "types": "There are two types of charges: positive and negative.",
+        "unit": "Coulomb (C)",
+        "symbol": "Q"
+      }
+    },
+
+    {
+      "keywords": ["electric", "current"],
+      "answer": {
+        "definition": "Electric current is the rate of flow of electric charge through a conductor.",
+        "formula": "I = Q / t",
+        "unit": "Ampere (A)",
+        "direction": "Conventionally taken from positive to negative terminal."
+      }
+    },
+
+    {
+      "keywords": ["si", "unit", "current"],
+      "answer": {
+        "answer": "The SI unit of electric current is ampere.",
+        "definition": "One ampere is the current when one coulomb of charge flows per second."
+      }
+    },
+
+    {
+      "keywords": ["potential", "difference", "voltage"],
+      "answer": {
+        "definition": "Potential difference between two points is the work done per unit charge to move a charge from one point to another.",
+        "formula": "V = W / Q",
+        "unit": "Volt (V)",
+        "importance": "It provides the energy required to move charges."
+      }
+    },
+
+    {
+      "keywords": ["electric", "circuit"],
+      "answer": {
+        "definition": "An electric circuit is a closed conducting path through which electric current flows.",
+        "condition": "Current flows only when the circuit is closed."
+      }
+    },
+
+    {
+      "keywords": ["ohm", "ohms", "law"],
+      "answer": {
+        "statement": "Ohm’s law states that at constant temperature, the current through a conductor is directly proportional to the potential difference across it.",
+        "formula": "V = IR",
+        "graph": "A straight line graph between V and I shows ohmic behaviour."
+      }
+    },
+
+    {
+      "keywords": ["resistance"],
+      "answer": {
+        "definition": "Resistance is the property of a conductor that opposes the flow of electric current.",
+        "formula": "R = V / I",
+        "unit": "Ohm (Ω)",
+        "symbol": "R"
+      }
+    },
+
+    {
+      "keywords": ["factors", "resistance"],
+      "answer": {
+        "factors": "Resistance depends on length, area of cross-section, nature of material and temperature.",
+        "relation": "R ∝ L and R ∝ 1/A"
+      }
+    },
+
+    {
+      "keywords": ["resistance", "temperature"],
+      "answer": {
+        "effect": "Resistance of a metallic conductor increases with increase in temperature.",
+        "reason": "Due to increased collision of electrons with atoms."
+      }
+    },
+
+    {
+      "keywords": ["resistivity"],
+      "answer": {
+        "definition": "Resistivity is the resistance of a conductor of unit length and unit area of cross-section.",
+        "symbol": "ρ",
+        "unit": "Ohm metre (Ωm)",
+        "property": "It depends only on the nature of material."
+      }
+    },
+
+    {
+      "keywords": ["series", "combination"],
+      "answer": {
+        "definition": "In series combination, resistors are connected end to end.",
+        "equivalent_resistance": "Equivalent resistance is the sum of all resistances.",
+        "formula": "R = R1 + R2 + R3",
+        "current": "Same current flows through all resistors."
+      }
+    },
+
+    {
+      "keywords": ["parallel", "combination"],
+      "answer": {
+        "definition": "In parallel combination, resistors are connected across the same two points.",
+        "equivalent_resistance": "Equivalent resistance is less than the smallest resistance.",
+        "formula": "1/R = 1/R1 + 1/R2 + 1/R3",
+        "voltage": "Same voltage across all resistors."
+      }
+    },
+
+    {
+      "keywords": ["advantages", "parallel"],
+      "answer": {
+        "advantages": "Parallel combination provides same voltage to appliances and allows independent operation.",
+        "example": "Domestic wiring uses parallel combination."
+      }
+    },
+
+    {
+      "keywords": ["disadvantages", "series"],
+      "answer": {
+        "disadvantages": "In series combination, failure of one appliance breaks the entire circuit.",
+        "reason": "Same current flows through all components."
+      }
+    },
+
+    {
+      "keywords": ["electric", "power"],
+      "answer": {
+        "definition": "Electric power is the rate at which electrical energy is consumed.",
+        "formula": "P = VI",
+        "unit": "Watt (W)"
+      }
+    },
+
+    {
+      "keywords": ["power", "formula"],
+      "answer": {
+        "formulas": "P = VI, P = I²R, P = V²/R",
+        "use": "Used in numerical problems."
+      }
+    },
+
+    {
+      "keywords": ["electric", "energy"],
+      "answer": {
+        "definition": "Electric energy is the total electrical work done.",
+        "commercial_unit": "Kilowatt-hour (kWh)",
+        "relation": "1 kWh = 3.6 × 10⁶ J"
+      }
+    },
+
+    {
+      "keywords": ["joule", "law", "heating"],
+      "answer": {
+        "statement": "Heat produced in a resistor is proportional to square of current, resistance and time.",
+        "formula": "H = I²Rt",
+        "applications": "Used in electric heaters, irons and toasters."
+      }
+    },
+
+    {
+      "keywords": ["fuse"],
+      "answer": {
+        "definition": "An electric fuse is a safety device that protects circuits from overloading.",
+        "principle": "It works on Joule’s heating effect of electric current.",
+        "material": "Made of low melting point alloy."
+      }
+    },
+
+    {
+      "keywords": ["overloading"],
+      "answer": {
+        "definition": "Overloading occurs when excessive current flows in a circuit.",
+        "cause": "Connecting too many appliances in a single circuit.",
+        "danger": "Can cause fire hazards."
+      }
+    },
+
+    {
+      "keywords": ["short", "circuit"],
+      "answer": {
+        "definition": "Short circuit occurs when live and neutral wires come in direct contact.",
+        "effect": "Sudden rise in current causing heating."
+      }
+    }
+
+  ]
+}
