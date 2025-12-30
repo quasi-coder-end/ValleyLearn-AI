@@ -1,2 +1,2 @@
 # ValleyLearn-AI
-building an ai for Jammu &amp; kashmir students 
+building an bot to help students of Jammu &amp; kashmir students 
