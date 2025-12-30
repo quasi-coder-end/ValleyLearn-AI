@@ -1,0 +1,85 @@
+{
+  "class": 10,
+  "subject": "Physics",
+  "chapter": "Light – Reflection and Refraction & Human Eye",
+  "board": "JKBOSE",
+
+  "qa": [
+    {
+      "keywords": ["reflection", "light"],
+      "answer": "Reflection of light is the bouncing back of light rays from a surface."
+    },
+    {
+      "keywords": ["laws", "reflection"],
+      "answer": "The laws of reflection are: (1) The angle of incidence is equal to the angle of reflection. (2) The incident ray, reflected ray and the normal lie in the same plane."
+    },
+    {
+      "keywords": ["plane", "mirror"],
+      "answer": "A plane mirror is a mirror with a flat reflecting surface."
+    },
+    {
+      "keywords": ["concave", "mirror"],
+      "answer": "A concave mirror is a spherical mirror whose reflecting surface is curved inward."
+    },
+    {
+      "keywords": ["convex", "mirror"],
+      "answer": "A convex mirror is a spherical mirror whose reflecting surface is curved outward."
+    },
+    {
+      "keywords": ["principal", "focus"],
+      "answer": "The principal focus is the point on the principal axis where rays parallel to the axis converge or appear to diverge after reflection."
+    },
+    {
+      "keywords": ["focal", "length"],
+      "answer": "The focal length is the distance between the pole and the principal focus of a mirror."
+    },
+    {
+      "keywords": ["mirror", "formula"],
+      "answer": "The mirror formula is 1/f = 1/v + 1/u."
+    },
+    {
+      "keywords": ["magnification"],
+      "answer": "Magnification is the ratio of the height of the image to the height of the object."
+    },
+    {
+      "keywords": ["refraction"],
+      "answer": "Refraction of light is the bending of light when it passes from one medium to another."
+    },
+    {
+      "keywords": ["refractive", "index"],
+      "answer": "Refractive index is the ratio of the speed of light in vacuum to the speed of light in a given medium."
+    },
+    {
+      "keywords": ["laws", "refraction"],
+      "answer": "The laws of refraction are: (1) The incident ray, refracted ray and the normal lie in the same plane. (2) The ratio of sine of angle of incidence to sine of angle of refraction is constant."
+    },
+    {
+      "keywords": ["human", "eye"],
+      "answer": "The human eye is a natural optical instrument which enables us to see objects."
+    },
+    {
+      "keywords": ["myopia"],
+      "answer": "Myopia is a defect of vision in which distant objects appear blurred."
+    },
+    {
+      "keywords": ["hypermetropia"],
+      "answer": "Hypermetropia is a defect of vision in which nearby objects appear blurred."
+    },
+    {
+      "keywords": ["presbyopia"],
+      "answer": "Presbyopia is a defect of vision caused due to weakening of eye muscles with age."
+    },
+    {
+      "keywords": ["cataract"],
+      "answer": "Cataract is a condition in which the eye lens becomes cloudy, leading to loss of vision."
+    },
+    {
+      "keywords": ["dispersion"],
+      "answer": "Dispersion of light is the splitting of white light into its constituent colours."
+    },
+    {
+      "keywords": ["rainbow"],
+      "answer": "A rainbow is formed due to dispersion, refraction and total internal reflection of sunlight by water droplets."
+    }
+  ]
+}
